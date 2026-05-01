@@ -1,0 +1,6 @@
+bruno@D1362JW3:~/NetBeansProjects/temp/coursera/mcino-Introduction-to-Git-and-GitHub$ git branch -a
+* bug-fix-revert
+  bug-fix-typo
+  main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
