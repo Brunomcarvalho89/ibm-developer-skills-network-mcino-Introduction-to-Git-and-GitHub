@@ -1,4 +1,4 @@
-bruno@D1362JW3:~/NetBeansProjects/temp/coursera/mcino-Introduction-to-Git-and-GitHub$ git branch -a
-* main
-  bug-fix-typo
-  bug-fix-revert
+bruno@D1362JW3:~/NetBeansProjects/temp/coursera/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+  bug-fix-revert dc9a9ae Update github-branches
+  bug-fix-typo   dc9a9ae Update github-branches
+* main           dc9a9ae [origin/main] Update github-branches
